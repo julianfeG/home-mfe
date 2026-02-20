@@ -7,7 +7,7 @@ module.exports = {
     output: {
         filename: 'bundle.js',
         path: __dirname + '/dist',
-        publicPath: 'https://xxxx.cloudfront.net/mfe2/',
+        publicPath: 'https://d1ok4nzvcbsy3m.cloudfront.net/',
         clean: true,
     },
     resolve: {
